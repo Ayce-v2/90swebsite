@@ -1,0 +1,26 @@
+body{background-image: url("https://www.basketballnetwork.net/.image/t_share/MTk0NjU2NzkzNjczNDc1MjM0/michael-jordan-vs-detroit-pistons.jpg");}
+
+*{font-family: cursive;}
+/**{  margin-left: auto;
+    margin-right: auto;}*/
+
+h1{color:red; letter-spacing: 0.1em; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+h3{color:red; font-weight: bold; text-align: left;}
+
+h4{color: red;}
+
+p{color: white}
+
+thead{color: yellow; text-align: center;}
+
+td{color: ghostwhite; font-weight: bold; text-align: center;}
+
+li{color: white; font-weight: bold;}
+
+td.player{text-align: left;}
+
+img{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
